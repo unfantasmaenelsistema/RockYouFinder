@@ -1,0 +1,10 @@
+{
+  "source": "rockyou.txt",
+  "sha256": "6dfa76aa0e02303994fd1062d0ac983f0b69ece5474d85a5bba36362e19c1076",
+  "bytes": 139921497,
+  "lines": 14344391,
+  "entries": 14344390,
+  "shards": 4096,
+  "hash": "fnv1a32",
+  "top": 100000
+}
